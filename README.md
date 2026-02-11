@@ -31,10 +31,10 @@ Odyssey Cup 2026 Brazil is a Counter-Strike 2 tournament produced by Samsung and
 ## Tournament Dates
 
 - **Open Qualifiers:**  
-  - 21–22 March 2026  
-  - 28–29 March 2026  
-  - 04–05 April 2026  
-  - 11–12 April 2026  
+  - 21–22 March 2026 - [Tournament Link](https://gamersclub.com.br/tournaments/cs/10210)  
+  - 28–29 March 2026 - [Tournament Link](https://gamersclub.com.br/tournaments/cs/10211)  
+  - 04–05 April 2026 - [Tournament Link](https://gamersclub.com.br/tournaments/cs/10212)  
+  - 11–12 April 2026 - [Tournament Link](https://gamersclub.com.br/tournaments/cs/10213)  
 
 - **Swiss Stage:**  
   - 24–26 April 2026  

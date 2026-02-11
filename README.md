@@ -1,6 +1,6 @@
 # Odyssey Cup 2026 Brazil
 
-Odyssey Cup 2026 Brazil is a Counter-Strike 2 tournament operated by Gamers Club.
+Odyssey Cup 2026 Brazil is a Counter-Strike 2 tournament produced by Samsung and operated by Gamers Club.
 
 ---
 
@@ -9,6 +9,7 @@ Odyssey Cup 2026 Brazil is a Counter-Strike 2 tournament operated by Gamers Club
 - **Tournament Name:** Odyssey Cup 2026 Brazil  
 - **Game:** Counter-Strike 2  
 - **Tournament Tier:** Ranked — Tier 2  
+- **Tournament Producer:** Samsung
 - **Tournament Operator:** Gamers Club  
 - **Region:** Brazil  
 - **Location:**  
@@ -19,6 +20,7 @@ Odyssey Cup 2026 Brazil is a Counter-Strike 2 tournament operated by Gamers Club
 
 ## Organiser & Contact
 
+- **Tournament Producer:** Samsung
 - **Tournament Operator:** Gamers Club  
 - **Contact Email:**  
   - odysseycup@gamersclub.com.br  

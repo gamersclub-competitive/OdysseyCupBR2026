@@ -1,6 +1,6 @@
 # Odyssey Cup 2026 Brasil
 
-Odyssey Cup 2026 Brasil é um torneio de Counter-Strike 2 producido pela Samsung e operado pela Gamers Club.
+Odyssey Cup 2026 Brasil é um torneio de Counter-Strike 2 produzido pela Samsung e operado pela Gamers Club.
 
 ---
 
@@ -54,7 +54,7 @@ Odyssey Cup 2026 Brasil é um torneio de Counter-Strike 2 producido pela Samsung
 
 | Colocação | Premiação |
 |---------|-----------|
-| 1º Lugar | BRL 110.000 |
+| 1º Lugar | BRL 110.000 + 6 Odyssey OLED G6 500Hz + Troféu |
 | 2º Lugar | BRL 30.000 |
 | 3º Lugar | BRL 15.000 |
 

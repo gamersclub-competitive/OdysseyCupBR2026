@@ -58,7 +58,7 @@ Odyssey Cup 2026 Brasil é um torneio de Counter-Strike 2 produzido pela Samsung
 | 2º Lugar | BRL 30.000 |
 | 3º Lugar | BRL 15.000 |
 
-- **MVP (1st Place Team):** Coroa Odyssey Cup
+- **MVP (Equipe vencedora):** Coroa Odyssey Cup
 
 Todas as premiações estão sujeitas à legislação fiscal brasileira aplicável e serão pagas de acordo com o regulamento oficial.  
 Não existem taxas de participação (*appearance fees*) ou qualquer outra forma de compensação além da premiação publicada.

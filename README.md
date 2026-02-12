@@ -54,7 +54,7 @@ Odyssey Cup 2026 Brazil is a Counter-Strike 2 tournament produced by Samsung and
 
 | Placement | Prize |
 |---------|------|
-| 1st Place | BRL 110,000 + 6 Odyssey OLED G6 500Hz + Trophy |
+| 1st Place | BRL 110,000 + Monitor Gamer Odyssey OLED G6 500HZ 27" + Trophy |
 | 2nd Place | BRL 30,000 |
 | 3rd Place | BRL 15,000 |
 

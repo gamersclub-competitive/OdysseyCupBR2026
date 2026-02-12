@@ -23,7 +23,7 @@ Odyssey Cup 2026 Brasil é um torneio de Counter-Strike 2 produzido pela Samsung
 - **Produtor do Torneio:** Samsung
 - **Operador do Torneio:** Gamers Club  
 - **Email de Contato:**  
-  - odysseycup@gamersclub.com.br  
+  - sac.odysseycup@gamersclub.com.br  
   - campeonatos@gamersclub.com.br  
 
 ---

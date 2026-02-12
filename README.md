@@ -58,6 +58,8 @@ Odyssey Cup 2026 Brazil is a Counter-Strike 2 tournament produced by Samsung and
 | 2nd Place | BRL 30,000 |
 | 3rd Place | BRL 15,000 |
 
+- **MVP (1st Place Team):** Odyssey Cup Crown
+
 All prize payments are subject to applicable Brazilian tax legislation and are paid in accordance with the official rulebook.  
 No appearance fees or additional compensation are provided outside the published prize pool.
 
